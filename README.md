@@ -5,3 +5,8 @@
     <a href="https://wengx-unx.github.io/#/">Blog</a>
   </samp>
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengx-unx&layout=compact&hide=html" />
+</p>
+  
