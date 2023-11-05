@@ -9,4 +9,7 @@
     <a href="https://iwengx.github.io/#/">Blog</a>
   </samp>
 </p>
-  
+
+<p>Visitor count:</p>
+
+![:name](https://count.getloli.com/get/@iwengx?theme=asoul)
