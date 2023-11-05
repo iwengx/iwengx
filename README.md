@@ -10,6 +10,6 @@
   </samp>
 </p>
 
-<p>Visitor count:</p>
+<p>Visit count:</p>
 
 ![:name](https://count.getloli.com/get/@iwengx?theme=asoul)
