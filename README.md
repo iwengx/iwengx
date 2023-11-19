@@ -2,13 +2,9 @@
 
 - A front-end engineer who has also learned some C#.
 
-<p align="left">
-  <samp>
-    <a href="http://wengx.cn/">Lil-liver-helper</a> .
-    <a href="https://gist.github.com/iwengx">Tampermonkey-Script</a> .
-    <a href="https://iwengx.github.io/#/">Blog</a>
-  </samp>
-</p>
+[Lil-liver-helper](http://wengx.cn/) ·
+[Tampermonkey-Script](http://gist.github.com/iwengx) ·
+[Blog](http://blog.wengx.cn/)
 
 <p>Visit count:</p>
 
