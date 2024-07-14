@@ -17,6 +17,6 @@ Projects:
 [Tampermonkey-Script](http://gist.github.com/iwengx) ·
 [Blog](http://blog.wengx.cn/)
 
-Visit count:
+Visit Count:
 
 <code>![:name](https://count.getloli.com/get/@iwengx?theme=asoul)</code>
