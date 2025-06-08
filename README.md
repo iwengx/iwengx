@@ -5,10 +5,8 @@ A developer transitioning from desktop application to front-end.
 Tech Stack:
 
 <code><img height="28" src="https://api.iconify.design/skill-icons/vuejs-dark.svg" /></code>&nbsp;
-<code><img height="28" src="https://api.iconify.design/skill-icons/react-dark.svg" /></code>&nbsp;
-<code><img height="28" src="https://api.iconify.design/skill-icons/electron.svg" /></code>&nbsp;
-<code><img height="28" src="https://api.iconify.design/skill-icons/typescript.svg" /></code>&nbsp;
 <code><img height="28" src="https://api.iconify.design/skill-icons/javascript.svg" /></code>&nbsp;
+<code><img height="28" src="https://api.iconify.design/skill-icons/typescript.svg" /></code>&nbsp;
 <code><img height="28" src="https://api.iconify.design/devicon/csharp.svg" /></code>&nbsp;
 
 Projects:
